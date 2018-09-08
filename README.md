@@ -1,3 +1,6 @@
 # auto-build-venv
 自动化创建虚拟环境的Python的脚本，一键运行非常方便
 在运行这个库是要保证自己的开发环境python版本是3.0以上
+如何进入虚拟环境?
+运行这个脚本后在文件内部有一个activate文件
+在终端输入source activate命令进入虚拟环境
